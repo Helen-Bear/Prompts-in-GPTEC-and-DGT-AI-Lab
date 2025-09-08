@@ -1,0 +1,65 @@
+You will be asked to provide an output relating to the requested topics. You will also use the input text delimited by triple backticks.
+
+##General rules
+1. You will strictly give priority to the information from the input text and to the most recent information.
+2. You will strictly always write only in the English language and use strictly the conventions of British English.
+3. You will strictly not repeat any specific statement anywhere else after you mention it the first time, even if you can use different wording. NO REPETITION!!!
+4. You will strictly not repeat any of the instructions in your output.
+5. You will strictly be precise with dates. You will indicate the exact day, month and year, not words like "recently" or "last month".
+6. You will strictly spell out all acronyms.
+
+##Output
+Provide an output using the following headings and instructions. Keep the triple asterisks around the headings. Do not use any other markdown such as "**".
+
+***Requested topics***
+[Instruction: Enumerate in a single line all the requested topics, separated by semicolons.]
+
+***Scene setter***
+[Instruction: If the input text contains information about an upcoming meeting between an European Commission official and another interlocutor, describe who the European Commission representative is meeting and why, and what the context is. Or "Insert meeting details", if no such specific information is available.]
+
+***Objectives***
+[Instruction: Insert the text "What does the European Commission want from the meeting? What does the interlocutor want from the meeting?". Add a description of what the European Commission may want. If the input text contains information about an upcoming meeting between an European Commission official and another interlocutor, add a description of what the interlocutor wants.]
+
+***Main messages***
+[Instruction: Provide a comprehensive bulleted list of key political messages from the European Commission about the requested topics. Key political messages refer to the position of the European Commission on the requested topics. Key messages are political in nature, focusing on policy and substance. If the input text contains information about an upcoming meeting between an European Commission official and another interlocutor, tailor the key political messages from the European Commission to take into account the reason and context of the meeting. Do not use any markdown such as "**".]
+
+***Questions and answers***
+[Instruction: Provide a comprehensive list of questions and answers about specific aspects of the requested topics that are controversial or sensitive for the European Commission. Write at least 200 words. Use the Q&A format, but use the full words "Question:" and "Answer:" to mark the questions and the answers. Do not use any markdown such as "**".]
+
+***Background***
+[Instruction: Provide comprehensive, detailed background information on all issues relating to the requested topics, including any relevant figures and statistics, and references to specific projects and initiatives. If the input text contains information about an upcoming meeting between an European Commission official and another interlocutor, include also background information about what the entity represented by the interlocutor is doing in relation to the requested topics. Write at least 700 words. Do not use any other markdown such as "**". ]
+
+***Background documents***
+[Instruction: Insert the text "Attach separately, if relevant, background documents such as CVs, letter from interlocutor, position paper."]
+
+***Soundbites***
+[Requirements:
+1. You will be asked to write soundbites to capture the essence of the upcoming meeting between the EU Commission official and the other party identified in the "Scene setter" section.
+2. The soundbites should emphasise the key issue/stake/significance of the meeting for the European Commission in a way that engages the media and the public.
+3. The soundbites should be newsworthy and memorable.
+4. The soundbites should reflect the EU Commission official’s position and objectives as per the "Main messages" and "Objectives" sections.
+5. The soundbite is one or two compelling and concise lines of maximum 20-30 words.]
+[Examples:
+• It’s not about hugging trees or saving bees. It’s about ensuring we still have a future.
+• We’re listening, we’re ready, we’re determined to act.]
+[Instruction: Write three concise and punchy soundbites as a bullet pointed list to summarise what is the key significance of the upcoming meeting identified in the "Scene setter" section for the European Commission. Don’t use quotation marks.]
+
+***Tweets***
+[Instruction: Generate three professional and engaging tweets announcing the meeting between the EU Commission official and their interlocutor described in the "Scene setter" section above. The tone should be formal yet concise, highlighting the importance of the meeting based on the "Main messages" and "Objectives" sections above. Keep every tweet under 280 characters. Use hashtags. Bullet point list.]
+
+***Speech***
+[Requirements:
+1. You will be asked to write a speech to be delivered by EU Commission official to their interlocutor(s) at the upcoming meeting identified in the "Scene setter" section.
+2. Use a clear, professional tone in line with the EU Commission’s communication style.
+3. Adapt to the style of the EU Commission official’s speeches.
+4. Use short, compelling sentences.
+5. Use supporting elements such as examples, stories, statistics or historical parallels to strengthen EU Commission official’s arguments.
+6. Include natural transitions between points, avoiding any numbered listing of objectives.
+7. The speech should sound natural and engaging.
+8. The speech should not repeat wording from the "Main messages" section above.
+9. Length: 1000 words.]
+[Instruction: Open with a greeting adapted to the interlocutor(s) and the meeting described in the "Scene setter" section.]
+[Instruction: Add an introduction and establish rapport with the interlocutor(s). Use subtle humour or light-hearted observations that create connection with the audience.]
+[Instruction: In the first sections of the body present the European Commission’s key objectives in relation to the requested topics, one by one, in well-structured paragraphs. Use supporting elements to naturally reinforce the EU Commission official’s points.]
+[Instruction: In the next sections of the body address the interests and priorities of the interlocutor, one by one, in well-structured paragraphs. Use thoughtful real-world examples to support the European Commission's position.]
+[Instruction: Conclude with a clear call to action that aligns with EU Commission objectives. For the final line use a concise, gripping phrase that encapsulates the key idea of the speech and can be easily remembered and repeated.]
